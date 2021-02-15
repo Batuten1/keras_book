@@ -3,3 +3,7 @@ env/
 .idea/
 venv/
 myenv/
+.ipynb_checkpoints
+.env
+.venv
+*/.ipynb_checkpoints/*
